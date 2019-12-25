@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:1-54:12
+MERGED from [tflite-predictor.aar] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/tflite-predictor.aar/94b9ba670d4b5c8c2dbc8ae6def89651/AndroidManifest.xml:1:1-2:50
+MERGED from [com.android.support:design:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/1f1825ba59867e9a8cff725dfec95c3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f972db588b41549c1f6b22aaabab8dce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/471cca4f04bb8017d19fd425eb6b59a0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/3c95f17500182521011b8ede2c35db7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c3873b388b80eff9806db9b9425328b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/3791c2b6ca3d1da29072fbf7c741a0dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/1e1d71bae7f891fd7027ce3b0e8b866d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2688137d6c0a4a4216d8b53a22ccad53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/74d91b18e3a4ea70fe319749b8c10f23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/6f98648122594b513d88c4a66549b398/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/611d98299db6e3888e1e4e55864b7439/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/31964dcf067c719d327b036d407f92a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/93f7af72d796beee8dec8d87dbe86070/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6d947c0cb3ca8daa43ce6561d7817d42/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.0.0.aar/bcebbfa9e20ab807083971c8f32a3eb4/AndroidManifest.xml:2:1-10:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/62b789886106b30dff4262bd58fa5631/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:1-54:12
+	package
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:17:5-56
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:1-54:12
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:1-54:12
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:19:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:21:5-60
+	android:name
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:21:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:22:5-70
+	android:name
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:22:19-67
+application
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:25:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/471cca4f04bb8017d19fd425eb6b59a0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/471cca4f04bb8017d19fd425eb6b59a0/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.0.0.aar/bcebbfa9e20ab807083971c8f32a3eb4/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.0.0.aar/bcebbfa9e20ab807083971c8f32a3eb4/AndroidManifest.xml:8:5-20
+	android:label
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.mlmodelscopepredictor.CameraActivity
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:31:13-43
+activity#com.example.android.mlmodelscopepredictor.MainActivity
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:36:13-34
+	android:name
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:35:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:40:27-74
+activity#com.example.android.mlmodelscopepredictor.DeployActivity
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:44:13-43
+uses-feature#0x00030001
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:50:5-78
+	android:glEsVersion
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:50:19-51
+	android:required
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:50:52-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:53:5-84
+	android:name
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml:53:22-64
+uses-sdk
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+MERGED from [tflite-predictor.aar] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/tflite-predictor.aar/94b9ba670d4b5c8c2dbc8ae6def89651/AndroidManifest.xml:2:1-39
+MERGED from [tflite-predictor.aar] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/tflite-predictor.aar/94b9ba670d4b5c8c2dbc8ae6def89651/AndroidManifest.xml:2:1-39
+MERGED from [com.android.support:design:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/1f1825ba59867e9a8cff725dfec95c3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/1f1825ba59867e9a8cff725dfec95c3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f972db588b41549c1f6b22aaabab8dce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f972db588b41549c1f6b22aaabab8dce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/471cca4f04bb8017d19fd425eb6b59a0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/471cca4f04bb8017d19fd425eb6b59a0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/3c95f17500182521011b8ede2c35db7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/3c95f17500182521011b8ede2c35db7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c3873b388b80eff9806db9b9425328b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/c3873b388b80eff9806db9b9425328b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/3791c2b6ca3d1da29072fbf7c741a0dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/3791c2b6ca3d1da29072fbf7c741a0dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/1e1d71bae7f891fd7027ce3b0e8b866d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/1e1d71bae7f891fd7027ce3b0e8b866d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2688137d6c0a4a4216d8b53a22ccad53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2688137d6c0a4a4216d8b53a22ccad53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/74d91b18e3a4ea70fe319749b8c10f23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/74d91b18e3a4ea70fe319749b8c10f23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/6f98648122594b513d88c4a66549b398/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/6f98648122594b513d88c4a66549b398/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/611d98299db6e3888e1e4e55864b7439/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/611d98299db6e3888e1e4e55864b7439/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/31964dcf067c719d327b036d407f92a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/31964dcf067c719d327b036d407f92a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/93f7af72d796beee8dec8d87dbe86070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/93f7af72d796beee8dec8d87dbe86070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6d947c0cb3ca8daa43ce6561d7817d42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6d947c0cb3ca8daa43ce6561d7817d42/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.0.0.aar/bcebbfa9e20ab807083971c8f32a3eb4/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-2.0.0.aar/bcebbfa9e20ab807083971c8f32a3eb4/AndroidManifest.xml:5:5-6:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/62b789886106b30dff4262bd58fa5631/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/abhiutd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/62b789886106b30dff4262bd58fa5631/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+		MERGED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhiutd/workspace/scratch/mobile-agent-android/predictor/app/src/main/AndroidManifest.xml
