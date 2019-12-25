@@ -40,6 +40,22 @@
       </state>
     </system>
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/mlmodelscopepredictor/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="20" column="610" selection-start-line="20" selection-start-column="610" selection-end-line="20" selection-end-column="610" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -2355,12 +2371,12 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/mlmodelscopepredictor/Message.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/mlmodelscopepredictor/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/mlmodelscopepredictor/ImageClassifier.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/mlmodelscopepredictor/CameraActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/mlmodelscopepredictor/Camera2BasicFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/mlmodelscopepredictor/AutoFitTextureView.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/mlmodelscopepredictor/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2382,6 +2398,17 @@
             <path>
               <item name="predictor" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="predictor" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="predictor" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="mlmodelscopepredictor" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
             <path>
               <item name="predictor" type="1abcf292:AndroidViewProjectNode" />
@@ -2623,6 +2650,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1400" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" />
@@ -3024,8 +3052,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/mlmodelscopepredictor/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
+        <state relative-caret-position="262">
+          <caret line="20" column="610" selection-start-line="20" selection-start-column="610" selection-end-line="20" selection-end-column="610" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

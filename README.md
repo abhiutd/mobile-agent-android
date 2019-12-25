@@ -1,2 +1,2 @@
-# agent-classification-android
-MLModelScope agent for image classification on android devices
+# mobile-agent-android
+MLModelScope mobile agent for android devices
